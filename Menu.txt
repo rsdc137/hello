@@ -1,1 +1,3 @@
 Adding menu to navbar
+
+change the style of menu to hamburger menu
